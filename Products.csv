@@ -1,0 +1,11 @@
+product_id,product_name,price,original_price,description,main_category,sub_category,rating,stock,badge,offers,size_options,color_options,image_urls,product_url
+1,Classic Black Handbag,1299,1599,A timeless black leather handbag perfect for daily use,Handbags,Crossbody,4.5,50,Best Seller,"Flat 20% off",S,M,L,Black,"https://example.com/images/handbag-black.jpg","https://example.com/product/1"
+2,Red Premium Wallet,899,1199,Stylish red leather wallet with multiple card slots,Accessories,Wallets,4.2,30,,Flat 25% off,,,,Red,"https://example.com/images/wallet-red.jpg","https://example.com/product/2"
+3,Travel Duffel Bag,2499,2999,Spacious duffel bag ideal for weekend trips,Luggage,Travel Bags,4.7,25,New Arrival,"Buy 1 Get 1 Free",One Size,Black Blue Red,"https://example.com/images/duffel-bag.jpg","https://example.com/product/3"
+4,Office Tote Bag,1799,2199,Elegant tote bag suitable for office use,Handbags,Totes,4.3,40,,Flat 18% off,S,M,L,Black Brown Navy,"https://example.com/images/tote-bag.jpg","https://example.com/product/4"
+5,College Backpack,1499,1899,Durable backpack perfect for college students,Bags,Backpacks,4.1,60,,Flat 21% off,S,M,L,Blue Green Black,"https://example.com/images/backpack.jpg","https://example.com/product/5"
+6,Premium Leather Briefcase,3999,4999,Professional leather briefcase for business meetings,Bags,Briefcases,4.8,15,Top Rated,"Flat 20% off + Extra 5% Cashback",One Size,Brown Black,"https://example.com/images/briefcase.jpg","https://example.com/product/6"
+7,Women's Fashion Clutch,1199,1599,Elegant clutch for evening wear,Handbags,Clutches,4.0,35,,Flat 25% off,One Size,Pink Gold Silver,"https://example.com/images/clutch.jpg","https://example.com/product/7"
+8,Men's Crossbody Sling,1399,1799,Compact sling bag for men,Handbags,Crossbody,4.4,45,,Flat 22% off,One Size,Black Gray Olive,"https://example.com/images/sling-bag.jpg","https://example.com/product/8"
+9,Waterproof Messenger Bag,1899,2299,Water-resistant messenger bag for daily commute,Bags,Messenger Bags,4.6,30,,Flat 17% off,S,M,L,Black Navy Gray,"https://example.com/images/messenger-bag.jpg","https://example.com/product/9"
+10,Gift Box Set,2299,2799,Complete gift set including wallet, pouch and accessories,Accessories,Gift Sets,4.9,20,Limited Edition,"Buy 2 Get 1 Free",One Size,Multicolor,"https://example.com/images/gift-set.jpg","https://example.com/product/10"
